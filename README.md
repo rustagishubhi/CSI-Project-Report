@@ -5,5 +5,5 @@ Progress of the CSI Project.
 - Completion of the assignments of freeCodeCamp on NodeJS and MongoDB
 
 ## Week 2
-- Started with exercises on JS on freeCodeCamp.
+- Started with exercises of JS on freeCodeCamp.
 - Created github repository for the project.
