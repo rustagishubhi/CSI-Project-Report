@@ -7,3 +7,6 @@ Progress of the CSI Project.
 ## Week 2
 - Started with exercises of JS on freeCodeCamp.
 - Created github repository for the project.
+- Cloned the theme template
+- Edited the template
+- Read articles on handlebars and express
