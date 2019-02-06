@@ -16,3 +16,6 @@ After these two weeks, I started working on the main repository for the projects
 To solve this issue, I added the package 'password-hash'. It is a NodeJS library to simplify use of hashed passwords.
 
 Next, I started adding the new UI template to the project beginning with the header and footer.
+
+After I started working on a new issue which was adding environment variables for email notification. Solution for this included installing the npm package dotenv and then creating a file .env which will include the email id and password which were earlier included in the app.js file.
+In the app.js, I included the package and created a local variable for the same. In signup.js, I replaced the email-id and password with the environment variables mentioned in the .env file.
