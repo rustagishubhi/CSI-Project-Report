@@ -19,3 +19,5 @@ Next, I started adding the new UI template to the project beginning with the hea
 
 After I started working on a new issue which was adding environment variables for email notification. Solution for this included installing the npm package dotenv and then creating a file .env which will include the email id and password which were earlier included in the app.js file.
 In the app.js, I included the package and created a local variable for the same. In signup.js, I replaced the email-id and password with the environment variables mentioned in the .env file.
+
+After this, we began working on integrating the template. Beginning with the partials(headers, footer, and adminheader). After updating the partials template, we began updating the template for the home page, about us and administrator's dashboard.
