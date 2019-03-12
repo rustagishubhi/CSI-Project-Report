@@ -21,3 +21,6 @@ After I started working on a new issue which was adding environment variables fo
 In the app.js, I included the package and created a local variable for the same. In signup.js, I replaced the email-id and password with the environment variables mentioned in the .env file.
 
 After this, we began working on integrating the template. Beginning with the partials(headers, footer, and adminheader). After updating the partials template, we began updating the template for the home page, about us and administrator's dashboard.
+
+## After First Submission 
+- Updated all the views to the new template. (https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/125)
