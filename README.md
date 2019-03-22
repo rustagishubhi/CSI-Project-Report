@@ -6,7 +6,7 @@ Progress of the CSI Project.
 
 ## Week 2
 - Started with exercises of JS on freeCodeCamp.
-- Created github repository for the project.
+- Created github repository for the project template. (https://github.com/rustagishubhi/Cybros-WebApp)
 - Cloned the theme template
 - Edited the template
 - Read articles on handlebars and express
@@ -21,6 +21,11 @@ After I started working on a new issue which was adding environment variables fo
 In the app.js, I included the package and created a local variable for the same. In signup.js, I replaced the email-id and password with the environment variables mentioned in the .env file.
 
 After this, we began working on integrating the template. Beginning with the partials(headers, footer, and adminheader). After updating the partials template, we began updating the template for the home page, about us and administrator's dashboard.
+
+All the pull requests done by me:
+- Added Password Hashing. (https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/117)
+- Added Environment Variables. (https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/119)
+- Administrator's Dashboard Update. (https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/123)
 
 ## After First Submission 
 - Updated all the views to the new template. (https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/125)
